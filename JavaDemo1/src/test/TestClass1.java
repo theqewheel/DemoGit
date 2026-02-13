@@ -6,6 +6,7 @@ public class TestClass1 {
 		
 		System.out.println("Hello World!");
 		System.out.println("This is a test class.");
+		System.out.println("This is a test message.");
 	}
 
 }
